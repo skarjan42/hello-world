@@ -32,7 +32,7 @@ body {
   background-color: #333;
 }
 body {
-
+  background-image: url("../img/carL.jpg");
   color: black;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
@@ -52,7 +52,7 @@ body {
   vertical-align: top;
 }
 .cover-container {
-  background-image: url("../img/carL.jpg");
+
   margin-right: auto;
   margin-left: auto;
 }
